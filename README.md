@@ -1,11 +1,11 @@
-# outlook-to-telegram
-Script that forwards outlook mail to the telegram channel
+# forwarder-outlook-to-telegram
+Script for forwards outlook mail to the telegram 
 
 ## Usage
 
 1) Clone this repository:
    
-   `git clone https://github.com/egormkn/outlook-to-telegram.git && cd outlook-to-telegram`
+   `git clone https://github.com/rajaculaemas/forwarder-outlook-to-telegram`
    
 2) Install dependencies:
    
