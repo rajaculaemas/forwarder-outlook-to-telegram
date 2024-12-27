@@ -1,0 +1,433 @@
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Token has expired
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code N7T7M4JVB to authenticate.
+- Waiting for authorization...
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[
+  {
+    "@odata.type": "#microsoft.graph.message",
+    "id": "AAMkAGM0MDVmMjhmLTZjYzEtNDZmNy04ZjY5LTQxNDhkM2ZjOTY4MgBGAAAAAAAt1SL6I6f6RYe0xtuj5YONBwDjP_4W1O_wQLtvr9Z4UXCeAAAAAAEMAADjP_4W1O_wQLtvr9Z4UXCeAAAGUPblAAA=",
+    "parentFolderId": "AQMkAGM0MDVmMjhmLTZjYwAxLTQ2ZjctOGY2OS00MTQ4ZDNmYzk2ODIALgAAAy3VIvojp-pFh7TG26Plg40BAOM-7hbU77BAu2_v1nhRcJ4AAAIBDAAAAA==",
+    "isRead": true
+  },
+  {
+    "@odata.type": "#microsoft.graph.message",
+    "id": "AAMkAGM0MDVmMjhmLTZjYzEtNDZmNy04ZjY5LTQxNDhkM2ZjOTY4MgBGAAAAAAAt1SL6I6f6RYe0xtuj5YONBwDjP_4W1O_wQLtvr9Z4UXCeAAAAAAEMAADjP_4W1O_wQLtvr9Z4UXCeAAAGUPbmAAA=",
+    "parentFolderId": "AQMkAGM0MDVmMjhmLTZjYwAxLTQ2ZjctOGY2OS00MTQ4ZDNmYzk2ODIALgAAAy3VIvojp-pFh7TG26Plg40BAOM-7hbU77BAu2_v1nhRcJ4AAAIBDAAAAA==",
+    "isRead": true
+  }
+]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[
+  {
+    "@odata.type": "#microsoft.graph.message",
+    "@odata.etag": "W/\"CQAAABYAAADjP+4W1O+wQLtvr9Z4UXCeAAAGTlMK\"",
+    "id": "AAMkAGM0MDVmMjhmLTZjYzEtNDZmNy04ZjY5LTQxNDhkM2ZjOTY4MgBGAAAAAAAt1SL6I6f6RYe0xtuj5YONBwDjP_4W1O_wQLtvr9Z4UXCeAAAAAAEMAADjP_4W1O_wQLtvr9Z4UXCeAAAGUPbnAAA=",
+    "createdDateTime": "2024-10-22T07:37:01Z",
+    "lastModifiedDateTime": "2024-10-22T07:37:02Z",
+    "changeKey": "CQAAABYAAADjP+4W1O+wQLtvr9Z4UXCeAAAGTlMK",
+    "categories": [],
+    "receivedDateTime": "2024-10-22T07:37:01Z",
+    "sentDateTime": "2024-10-22T07:36:50Z",
+    "hasAttachments": true,
+    "internetMessageId": "<bd3ff4f9-f137-53a1-31e3-7db48a0275b2@punggawa.id>",
+    "subject": "Daily Alert Backup",
+    "bodyPreview": "CAUTION: This email is sent from an external source and may contain links or attachments that could be harmful. Please do not click on any links or open attachments unless you recognize the sender and trust the source. Protect your personal information an",
+    "importance": "normal",
+    "parentFolderId": "AQMkAGM0MDVmMjhmLTZjYwAxLTQ2ZjctOGY2OS00MTQ4ZDNmYzk2ODIALgAAAy3VIvojp-pFh7TG26Plg40BAOM-7hbU77BAu2_v1nhRcJ4AAAIBDAAAAA==",
+    "conversationId": "AAQkAGM0MDVmMjhmLTZjYzEtNDZmNy04ZjY5LTQxNDhkM2ZjOTY4MgAQAGQJpN54URFBgup4CUKrriA=",
+    "conversationIndex": "AQHbJFUuZAmk3nhREUGC6ngJQquuIA==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": false,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGM0MDVmMjhmLTZjYzEtNDZmNy04ZjY5LTQxNDhkM2ZjOTY4MgBGAAAAAAAt1SL6I6f6RYe0xtuj5YONBwDjP%2B4W1O%2BwQLtvr9Z4UXCeAAAAAAEMAADjP%2B4W1O%2BwQLtvr9Z4UXCeAAAGUPbnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+      "contentType": "text",
+      "content": "CAUTION: This email is sent from an external source and may contain links or attachments that could be harmful. Please do not click on any links or open attachments unless you recognize the sender and trust the source. Protect your personal information and computer systems by exercising caution.\r\n"
+    },
+    "sender": {
+      "emailAddress": {
+        "name": "SOC MONITORING",
+        "address": "soc247@punggawa.id"
+      }
+    },
+    "from": {
+      "emailAddress": {
+        "name": "SOC MONITORING",
+        "address": "soc247@punggawa.id"
+      }
+    },
+    "toRecipients": [
+      {
+        "emailAddress": {
+          "name": "Ariful Mustaqim",
+          "address": "ariful@punggawa.id"
+        }
+      }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+      "flagStatus": "notFlagged"
+    }
+  }
+]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code I2G6GJVNC to authenticate.
+- Waiting for authorization...
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[
+  {
+    "@odata.type": "#microsoft.graph.message",
+    "@odata.etag": "W/\"CQAAABYAAADjP+4W1O+wQLtvr9Z4UXCeAAAGTlMt\"",
+    "id": "AAMkAGM0MDVmMjhmLTZjYzEtNDZmNy04ZjY5LTQxNDhkM2ZjOTY4MgBGAAAAAAAt1SL6I6f6RYe0xtuj5YONBwDjP_4W1O_wQLtvr9Z4UXCeAAAAAAEMAADjP_4W1O_wQLtvr9Z4UXCeAAAGUPboAAA=",
+    "createdDateTime": "2024-10-22T07:45:30Z",
+    "lastModifiedDateTime": "2024-10-22T07:45:31Z",
+    "changeKey": "CQAAABYAAADjP+4W1O+wQLtvr9Z4UXCeAAAGTlMt",
+    "categories": [],
+    "receivedDateTime": "2024-10-22T07:45:31Z",
+    "sentDateTime": "2024-10-22T07:45:18Z",
+    "hasAttachments": true,
+    "internetMessageId": "<ad7dc69b-2956-a0b2-03c7-95d64d739f6b@punggawa.id>",
+    "subject": "Daily Alert Backup",
+    "bodyPreview": "CAUTION: This email is sent from an external source and may contain links or attachments that could be harmful. Please do not click on any links or open attachments unless you recognize the sender and trust the source. Protect your personal information an",
+    "importance": "normal",
+    "parentFolderId": "AQMkAGM0MDVmMjhmLTZjYwAxLTQ2ZjctOGY2OS00MTQ4ZDNmYzk2ODIALgAAAy3VIvojp-pFh7TG26Plg40BAOM-7hbU77BAu2_v1nhRcJ4AAAIBDAAAAA==",
+    "conversationId": "AAQkAGM0MDVmMjhmLTZjYzEtNDZmNy04ZjY5LTQxNDhkM2ZjOTY4MgAQAIKgTB71e0pOhFcAywAzJf8=",
+    "conversationIndex": "AQHbJFZegqBMHvV7Sk6EVwDLADMl/w==",
+    "isDeliveryReceiptRequested": null,
+    "isReadReceiptRequested": false,
+    "isRead": false,
+    "isDraft": false,
+    "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGM0MDVmMjhmLTZjYzEtNDZmNy04ZjY5LTQxNDhkM2ZjOTY4MgBGAAAAAAAt1SL6I6f6RYe0xtuj5YONBwDjP%2B4W1O%2BwQLtvr9Z4UXCeAAAAAAEMAADjP%2B4W1O%2BwQLtvr9Z4UXCeAAAGUPboAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+    "inferenceClassification": "focused",
+    "body": {
+      "contentType": "text",
+      "content": "CAUTION: This email is sent from an external source and may contain links or attachments that could be harmful. Please do not click on any links or open attachments unless you recognize the sender and trust the source. Protect your personal information and computer systems by exercising caution.\r\n"
+    },
+    "sender": {
+      "emailAddress": {
+        "name": "SOC MONITORING",
+        "address": "soc247@punggawa.id"
+      }
+    },
+    "from": {
+      "emailAddress": {
+        "name": "SOC MONITORING",
+        "address": "soc247@punggawa.id"
+      }
+    },
+    "toRecipients": [
+      {
+        "emailAddress": {
+          "name": "Ariful Mustaqim",
+          "address": "ariful@punggawa.id"
+        }
+      }
+    ],
+    "ccRecipients": [],
+    "bccRecipients": [],
+    "replyTo": [],
+    "flag": {
+      "flagStatus": "notFlagged"
+    }
+  }
+]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code ILLK669UQ to authenticate.
+- Waiting for authorization...
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code NMZV4QYQF to authenticate.
+- Waiting for authorization...
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code HU4HS3Z8R to authenticate.
+- Waiting for authorization...
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code H4XZ76ZHZ to authenticate.
+- Waiting for authorization...
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code IVLC96XVT to authenticate.
+- Waiting for authorization...
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code IJUTRM4WD to authenticate.
+- Waiting for authorization...
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
+
+> outlook-to-telegram@1.0.0 start
+> node dist/index.js
+
+Loaded saved data
+Authorized as Ariful Mustaqim (ariful@punggawa.id)
+[]
